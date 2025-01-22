@@ -7,7 +7,6 @@ class Node():
         # next是下一个节点的标识
         self.next = None
 
-
 # 定义链表(单向链表)
 class SingleLinkList(object):
     # 初始化
